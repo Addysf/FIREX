@@ -2,7 +2,7 @@
 The Telegram Most Safest Maintained Userbot using Telethon. This is also completely opensource project.
 <p align="center">
    
-   <a href="https://github.com/TeamEviral/Fire-X">
+   <a href="https://github.com/Addysf/Fire-X">
       <img src="https://telegra.ph/file/4fd8dcd5319be4e025022.jpg" alt="firex", height="300px",width="300px">
    </a>
    <br>
