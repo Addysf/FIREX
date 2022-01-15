@@ -6,7 +6,7 @@ The Telegram Most Safest Maintained Userbot using Telethon. This is also complet
       <img src="https://telegra.ph/file/4fd8dcd5319be4e025022.jpg" alt="firex", height="300px",width="300px">
    </a>
    <br>
-   <b>Fire-X UserBot</b><br>
+   <b>Fire-X UserBot</bAddysf/Fire-X><br>
    <i>The Awaited Bot</i>
 </p>
  
